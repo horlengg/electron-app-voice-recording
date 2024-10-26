@@ -1,0 +1,1 @@
+{"root":["./src/main.ts","./src/vite-env.d.ts","./src/electron/main.ts","./src/electron/util.ts","./src/utils/convert-wave-to-mp3.ts","./src/utils/format-audio-duration.ts","./src/utils/recorder.ts","./src/app.vue","./src/components/helloworld.vue"],"version":"5.6.3"}

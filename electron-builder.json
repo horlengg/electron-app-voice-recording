@@ -1,0 +1,22 @@
+{
+    "appId": "com.visal.electron",
+    "files": ["dist-electron", "dist-vue"],
+    "mac": {
+        "target": {
+            "target": "dmg",
+            "arch": ["universal"]
+        }
+    },
+    "linux": {
+        "target": "AppImage",
+        "category": "Utility"
+    },
+    "win": {
+        "target": [
+            {
+                "target": "nsis",
+                "arch": ["x64"]
+            }
+        ]
+    }
+}
